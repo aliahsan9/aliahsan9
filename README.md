@@ -155,10 +155,10 @@ If you have a project in mind, reach out and let's discuss the scope.
 
 | Platform | Link |
 |---|---|
-| **Email** | [your@email.com](aliahsan8751@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ali-ahsan-6895a9315/) |
-| **GitHub** | [github.com/YOUR_USERNAME](https://github.com/aliahsan9) |
-| **Portfolio** | [yourportfolio.com](https://aliahsan.vercel.app/) |
+| **Email** | [aliahsan8751@gmail.com](aliahsan8751@gmail.com) |
+| **LinkedIn** | [https://www.linkedin.com/in/ali-ahsan-6895a9315/](https://www.linkedin.com/in/ali-ahsan-6895a9315/) |
+| **GitHub** | [https://github.com/aliahsan9](https://github.com/aliahsan9) |
+| **Portfolio** | [https://aliahsan.vercel.app/](https://aliahsan.vercel.app/) |
 
 </div>
 
