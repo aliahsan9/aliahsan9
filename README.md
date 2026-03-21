@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<a href="aliahsan8751@email.com">
+<a href="aliahsan8751@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
@@ -155,10 +155,10 @@ If you have a project in mind, reach out and let's discuss the scope.
 
 | Platform | Link |
 |---|---|
-| **Email** | [your@email.com](mailto:your@email.com) |
-| **LinkedIn** | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
-| **GitHub** | [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME) |
-| **Portfolio** | [yourportfolio.com](https://yourportfolio.com) |
+| **Email** | [your@email.com](aliahsan8751@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ali-ahsan-6895a9315/) |
+| **GitHub** | [github.com/YOUR_USERNAME](https://github.com/aliahsan9) |
+| **Portfolio** | [yourportfolio.com](https://aliahsan.vercel.app/) |
 
 </div>
 
