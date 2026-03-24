@@ -92,9 +92,6 @@ My current focus is **ExamDynamics**, a smart learning platform I'm building fro
 - **Responsive Design** — Mobile-first Angular frontend, usable across all devices
 
 **Tech used:** ASP.NET Core 8, Entity Framework Core, SQL Server, Angular 17, TypeScript, JWT, Azure
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://exam-dynamics-ui.vercel.app/)
-
 ---
 
 ## What I Build & Deliver
