@@ -82,8 +82,6 @@ My current focus is **ExamDynamics**, a smart learning platform I'm building fro
 
 **ExamDynamics** is a smart, full-featured learning platform engineered for students who want structured, efficient exam preparation. It combines an intuitive interface with a high-performance backend to deliver a seamless study experience.
 
-**Architecture:** ASP.NET Core Web API + Angular SPA + SQL Server + Azure Hosting
-
 **Core Features:**
 - **Progress Dashboard** — Visual tracking of study sessions, quiz scores, and weak areas with data-driven insights
 - **Adaptive Quiz Engine** — Practice mode and timed exam simulation with automatic scoring and result analysis
