@@ -74,24 +74,6 @@ My current focus is **ExamDynamics**, a smart learning platform I'm building fro
 
 ---
 
-## Featured Project — ExamDynamics
-
----
-
-## What I Build & Deliver
-
-| Capability | Details |
-|---|---|
-| **REST API Development** | ASP.NET Core 8 Web APIs with Swagger documentation, versioning, and proper HTTP conventions |
-| **Angular Frontends** | Standalone component architecture, reactive forms, RxJS, lazy loading, and Angular Material |
-| **Database Design** | Normalized SQL Server schemas, stored procedures, indexing strategies, and EF Core migrations |
-| **Authentication & Security** | JWT bearer tokens, refresh token rotation, role-based authorization, and CORS policies |
-| **Clean Architecture** | SOLID principles, Repository & Unit of Work patterns, Dependency Injection, CQRS where appropriate |
-| **Cloud Deployment** | Azure App Service, Azure SQL, environment configuration, and basic CI/CD pipelines |
-| **Performance Optimization** | Query optimization, pagination, caching strategies, and lazy loading on the frontend |
-
----
-
 ## Freelance Services
 
 I am actively available for **freelance and remote work** — whether you need a complete web application built from scratch, an existing API extended, or a frontend redesign.
