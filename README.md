@@ -91,7 +91,6 @@ My current focus is **ExamDynamics**, a smart learning platform I'm building fro
 - **User Authentication** — Secure JWT-based login and registration with role-based access control
 - **Responsive Design** — Mobile-first Angular frontend, usable across all devices
 
-**Tech used:** ASP.NET Core 8, Entity Framework Core, SQL Server, Angular 17, TypeScript, JWT, Azure
 ---
 
 ## What I Build & Deliver
