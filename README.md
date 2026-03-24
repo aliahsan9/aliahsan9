@@ -76,13 +76,6 @@ My current focus is **ExamDynamics**, a smart learning platform I'm building fro
 
 ## Featured Project — ExamDynamics
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3&width=100%25" />
-</div>
-
-**ExamDynamics** is a smart, full-featured learning platform engineered for students who want structured, efficient exam preparation. It combines an intuitive interface with a high-performance backend to deliver a seamless study experience.
-
-
 ---
 
 ## What I Build & Deliver
