@@ -82,12 +82,6 @@ My current focus is **ExamDynamics**, a smart learning platform I'm building fro
 
 **ExamDynamics** is a smart, full-featured learning platform engineered for students who want structured, efficient exam preparation. It combines an intuitive interface with a high-performance backend to deliver a seamless study experience.
 
-**Core Features:**
-- **Progress Dashboard** — Visual tracking of study sessions, quiz scores, and weak areas with data-driven insights
-- **Adaptive Quiz Engine** — Practice mode and timed exam simulation with automatic scoring and result analysis
-- **Notes & Study Material Manager** — Create, tag, and organize personal notes alongside uploaded PDFs and resources
-- **User Authentication** — Secure JWT-based login and registration with role-based access control
-- **Responsive Design** — Mobile-first Angular frontend, usable across all devices
 
 ---
 
