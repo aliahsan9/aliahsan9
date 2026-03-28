@@ -91,23 +91,6 @@ I am actively available for **freelance and remote work** — whether you need a
 
 If you have a project in mind, reach out and let's discuss the scope.
 
----
-
-## Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| **Email** | [aliahsan8751@gmail.com](aliahsan8751@gmail.com) |
-| **LinkedIn** | [https://www.linkedin.com/in/ali-ahsan-6895a9315/](https://www.linkedin.com/in/ali-ahsan-6895a9315/) |
-| **GitHub** | [https://github.com/aliahsan9](https://github.com/aliahsan9) |
-| **Portfolio** | [https://aliahsan.vercel.app/](https://aliahsan.vercel.app/) |
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Building+clean%2C+scalable+software+one+commit+at+a+time&fontSize=14&fontColor=c4b5fd&fontAlignY=65" width="100%" />
