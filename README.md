@@ -28,7 +28,7 @@
 
 ## About Me
 
-I'm a passionate **Full Stack Developer** specializing in the **Microsoft technology stack**, currently in my 6th semester of a BS program while actively building real-world production systems. I care deeply about software quality — clean architecture, maintainable code, and delivering solutions that scale.
+I'm a passionate **Full Stack Developer** specializing in the **Microsoft technology stack**, currently in my 7th semester of a BS program while actively building real-world production systems. I care deeply about software quality — clean architecture, maintainable code, and delivering solutions that scale.
 
 My current focus is **ExamDynamics**, a smart learning platform I'm building from the ground up. Outside of that, I take on freelance projects involving full-stack web development, REST API design, and Angular frontends.
 
@@ -70,6 +70,7 @@ My current focus is **ExamDynamics**, a smart learning platform I'm building fro
 ### Database
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Postgre](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Cloud, DevOps & Tools
