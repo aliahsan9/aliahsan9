@@ -70,7 +70,7 @@ My current focus is **ExamDynamics**, a smart learning platform I'm building fro
 ### Database
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Postgre](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Postgre](https://img.shields.io/badge/Postgre_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Cloud, DevOps & Tools
