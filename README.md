@@ -4,11 +4,11 @@
 
 <br/>
 
-```html
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=false&width=650&height=50&lines=ASP.NET+Core+%26+Angular+Developer;Building+Scalable+Full-Stack+Applications;C%23+%7C+SQL+Server+%7C+Azure;AI+Agents+%7C+RAG+%7C+Semantic+Search;Clean+Architecture+%7C+REST+APIs+%7C+System+Design" alt="Typing SVG" />
 </a>
-```
+
 
 <br/><br/>
 
