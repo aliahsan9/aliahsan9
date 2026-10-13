@@ -1,114 +1,212 @@
+
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ali%20Ahsan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20.NET%20%7C%20Angular%20%7C%20SQL%20Server&descAlignY=58&descColor=c4b5fd&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=200&section=header&text=Ali%20Ahsan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20%7C%20Angular%20%7C%20AI&descAlignY=58&descColor=93c5fd&animation=fadeIn" width="100%" />
 
-<br/>
+  <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&multiline=false&width=650&height=50&lines=ASP.NET+Core+%26+Angular+Developer;Building+Scalable+Full-Stack+Applications;C%23+%7C+SQL+Server+%7C+Azure;AI+Agents+%7C+RAG+%7C+Semantic+Search;Clean+Architecture+%7C+REST+APIs+%7C+System+Design" alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=680&height=50&lines=ASP.NET+Core+%26+Angular+Developer;Building+Scalable+Full-Stack+Applications;C%23+%7C+SQL+Server+%7C+Azure;AI+Agents+%7C+RAG+%7C+Semantic+Search;Clean+Architecture+%7C+System+Design" alt="Typing SVG" />
+  </a>
 
-<br/><br/>
+  <br/><br/>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aliahsan.dev1%40gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ali-ahsan-6895a9315/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://aliahsan.tech" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aliahsan.dev1%40gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ali-ahsan-6895a9315/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://aliahsan.tech" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/aliahsan9" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
 </div>
 
 ---
 
 ## About Me
 
-I'm a passionate **Full Stack Developer** specializing in the **Microsoft technology stack**, currently in my 7th semester of a BS program while actively building real-world production systems. I care deeply about software quality — clean architecture, maintainable code, and delivering solutions that scale.
+I'm a Computer Science undergraduate and software developer focused on building practical, maintainable applications with the Microsoft technology stack and modern AI capabilities.
 
-My current focus is **ExamDynamics**, a smart learning platform I'm building from the ground up. Outside of that, I take on freelance projects involving full-stack web development, REST API design, and Angular frontends.
+My primary focus is **ASP.NET Core, C#, Angular, and SQL Server**, with growing expertise in AI agents, Retrieval-Augmented Generation (RAG), semantic search, and cloud technologies.
 
-- Currently building: **ExamDynamics** — an intelligent study and exam preparation platform
-- Actively learning: **System Design, DevOps pipelines, and Cloud Deployment on Azure**
-- Background in: **Clean Architecture, JWT Authentication, Repository Pattern, and CQRS**
-- Available for: **Freelance projects and remote collaboration**
+I enjoy working across the stack — from designing REST APIs and relational databases to building responsive Angular interfaces and integrating AI into business applications.
+
+- Building: **BusinessOS** — a multi-tenant business management platform with AI capabilities
+- Developing: **ExamDynamics** — a web platform for exam preparation and learning
+- Exploring: **ProdFalcon** — automated code and security analysis with AI-assisted recommendations
+- Learning: System design, distributed systems, AI agent orchestration, and cloud engineering
+- Engineering interests: API reliability, authentication and authorization, database design, testing, and maintainable architecture
+
+My goal is to build software that solves real problems, works reliably, and can evolve as its requirements grow.
 
 ---
 
 ## Tech Stack
 
-### Backend
+### Backend Engineering
 
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/RESTful_API-000000?style=for-the-badge&logo=swagger&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" />
+</p>
 
-### AI & RAG
+### Frontend Engineering
 
-![AI](https://img.shields.io/badge/AI_Applications-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vector Database](https://img.shields.io/badge/Vector_Database-00A36C?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-FF4B4B?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-### Frontend
+### AI Engineering
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AI_Applications-4338CA?style=for-the-badge" alt="AI Applications" />
+  <img src="https://img.shields.io/badge/AI_Agents-4338CA?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG_Systems-0F766E?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Embeddings-0F766E?style=for-the-badge" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Semantic_Search-0F766E?style=for-the-badge" alt="Semantic Search" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Microsoft_Agent_Framework-2563EB?style=for-the-badge" alt="Microsoft Agent Framework" />
+</p>
 
-### Database
+### Databases & Data
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Postgre](https://img.shields.io/badge/Postgre_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Vector_Search-0F766E?style=for-the-badge" alt="Vector Search" />
+</p>
 
-### Cloud, DevOps & Tools
+### Architecture, Security & Engineering Practices
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Clean_Architecture-334155?style=for-the-badge" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Multitenancy-334155?style=for-the-badge" alt="Multitenancy" />
+  <img src="https://img.shields.io/badge/JWT_Authentication-334155?style=for-the-badge" alt="JWT Authentication" />
+  <img src="https://img.shields.io/badge/RBAC-334155?style=for-the-badge" alt="Role-Based Access Control" />
+  <img src="https://img.shields.io/badge/Automated_Testing-334155?style=for-the-badge" alt="Automated Testing" />
+  <img src="https://img.shields.io/badge/System_Design-334155?style=for-the-badge" alt="System Design" />
+</p>
+
+### Cloud, DevOps & Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Scalar-111827?style=for-the-badge" alt="Scalar API Reference" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</p>
 
 ---
 
+## Featured Projects
+
+### 1. BusinessOS — AI-Powered Business Management
+
+A multi-tenant business management platform designed to bring everyday business operations into one system, with AI capabilities for interacting with business information.
+
+**Key areas:**
+- Inventory, products, categories, customers, and sales
+- Business data isolation using tenant-aware application design
+- ASP.NET Core APIs with Entity Framework Core and SQL Server
+- Angular dashboard and data visualization
+- Authentication, authorization, validation, and structured logging
+- AI-assisted business insights and retrieval-augmented generation
+
+**Tech:** C#, ASP.NET Core, Angular, SQL Server, Entity Framework Core, Qdrant, AI/RAG
+
+[View Backend Repository](https://github.com/aliahsan9/BusinessOS) · [View Frontend Repository](https://github.com/aliahsan9/BusinessOS_UI)
+
+### 2. ExamDynamics — Exam Preparation Platform
+
+A full-stack learning application focused on providing a structured experience for exam preparation and educational content.
+
+**Key areas:**
+- Angular frontend and ASP.NET Core backend
+- Authentication and role-aware application functionality
+- REST API integration and relational data management
+- Responsive user interfaces and deployment workflows
+
+**Tech:** C#, ASP.NET Core, Angular, SQL Server, JWT, Azure
+
+[Live Application](https://exam-dynamics-ui.vercel.app)
+
+### 3. ProdFalcon — AI-Assisted Code Analysis
+
+A project focused on helping developers inspect codebases and identify potential issues through automated checks and AI-assisted recommendations.
+
+**Key areas:**
+- Codebase analysis using uploaded project archives or repository sources
+- Detection of potential security and code-quality problems
+- AI-assisted explanations and suggested improvements
+- Developer-focused feedback for reviewing and improving code
+
+**Tech:** .NET, Angular, static analysis rules, AI-assisted code review
+
+[Explore My GitHub Repositories](https://github.com/aliahsan9?tab=repositories)
+
 ---
 
-## Freelance Services
+## Current Learning & Engineering Focus
 
-I am actively available for **freelance and remote work** — whether you need a complete web application built from scratch, an existing API extended, or a frontend redesign.
+I'm continuously strengthening the fundamentals behind reliable software, not just learning additional frameworks.
 
-**What I offer:**
+- **System Design:** scalability, caching, reliability, and architectural trade-offs
+- **Backend Engineering:** API design, validation, authorization, error handling, and idempotency
+- **Database Engineering:** relational modeling, query performance, transactions, and concurrency
+- **AI Engineering:** agents, RAG pipelines, embeddings, vector search, and tool orchestration
+- **Software Quality:** unit tests, integration tests, debugging, and maintainable code
+- **Cloud & DevOps:** deployment, CI/CD, containerization, and production readiness
+- **Problem Solving:** data structures and algorithms using C#
 
-- Full Stack Web Application Development (.NET + Angular)
-- REST API Design, Development & Documentation
-- Angular Frontend Development (new builds or existing project improvement)
-- SQL Server database design and optimization
-- Bug fixing, refactoring, and performance improvements
-- Code review and architecture consultation
+---
 
-**Engagement types:** Fixed-price projects, hourly contracts, long-term retainers
+## Let's Connect
 
-If you have a project in mind, reach out and let's discuss the scope.
+I'm interested in connecting with software engineers, developers, and teams working on meaningful products, backend systems, full-stack applications, and AI-powered software.
+
+If you're working on something interesting or would like to discuss software engineering, feel free to reach out.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Building+clean%2C+scalable+software+one+commit+at+a+time&fontSize=14&fontColor=c4b5fd&fontAlignY=65" width="100%" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aliahsan.dev1%40gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ali-ahsan-6895a9315/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://aliahsan.tech" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0f172a&height=120&section=footer&text=Engineering%20reliable%20software%20with%20purpose&fontSize=16&fontColor=93c5fd&fontAlignY=65" width="100%" />
 
 </div>
